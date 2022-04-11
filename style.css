@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.font{
+    font-size: 0.8rem;
+}
+.bg{
+    background-size: cover;
+    padding: 174px 0px 174px 0px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('img/bg.jpg');
+    background-attachment: fixed;
+}
+.caption-content{
+    display:table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.btn:focus{
+    box-shadow: none;
+    border: none;
+}
+.collapse .navbar-collapse{
+    color: white;
+    background-color: white;
+}
+.img-cardd{
+ box-shadow: 1px 2px 10px rgb(0 0 0 / 15%);
+ border-radius:0.2rem;
+}
+.img-cardd:hover{
+    transform: translateY(-5px);
+}

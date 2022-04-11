@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background-size: cover;
+    padding: 174px 0px 174px 0px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('img/fish.avif');
+    background-attachment: fixed;
+}
+.blurry-man{
+     background-size: cover;
+    padding: 220px 0px 174px 0px;
+    /* text-align: center; */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('img/blury-man.jpg');
+    /* background-attachment: fixed; */
+}
+.lap{
+    background-size:cover;
+    padding: 220px 0px 174px 0px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('img/lappp.jpg');
+    background-attachment: fixed;
+
+}
